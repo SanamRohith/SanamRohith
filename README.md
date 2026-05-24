@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanam Rohith</h1>
 
-<h3 align="center">🚀 Python Developer | Flask | Django | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Django & Flask Developer | Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Developer;Flask+%26+Django+Developer;Open+Source+Learner;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Web+Developer;Django+%26+MERN+Stack+Developer;Building+Real-World+Projects+🚀;Open+Source+Enthusiast" />
 </p>
-
----
 
 # 💫 About Me
 - 🔭 Working on real-world web applications  
