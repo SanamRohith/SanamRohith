@@ -1,115 +1,128 @@
 <h1 align="center">Hi 👋, I'm Sanam Rohith</h1>
 
-<h3 align="center">🚀 Python Developer | Django & Flask Developer | Full Stack Developer</h3>
+<h3 align="center">
+🚀 Software Engineer | Python Backend Developer | Django & Flask Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Web+Developer;Django+%26+MERN+Stack+Developer;Building+Real-World+Projects+🚀;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Python+Backend+Developer;Django+%26+Flask+Developer;AWS+Certified+Solutions+Architect;Building+Scalable+Applications" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SanamRohith&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
 # 💫 About Me
-- 🔭 Working on real-world web applications  
-- 🌱 Learning advanced backend development  
-- 💡 Interested in AI & Full Stack Development  
-- 🚀 Building impactful developer projects  
+
+- 🎓 B.Tech Computer Science & Technology (2022–2026)
+- 🐍 Python Backend Developer specializing in Django & Flask
+- 🚀 Building scalable and production-ready web applications
+- 💡 Interested in Backend Development, System Design & AI
+- 🏆 AWS Certified Solutions Architect – Associate
+- 📈 Solved 590+ Problems on GeeksforGeeks
+- 📈 Solved 135+ Problems on LeetCode
+- 🔬 Research Paper Presenter & Author
 
 ---
 
 # 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-
-![SQLite](https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,mysql,sqlite,html,css,js,git,github,vscode,postman" />
+</p>
 
 ---
+
+# 🏆 Achievements
+
+- 🥇 AWS Certified Solutions Architect – Associate
+- ☁️ Microsoft Azure AI Fundamentals
+- 🐙 GitHub Foundations Certified
+- 📈 Solved 590+ Problems on GeeksforGeeks
+- 📈 Solved 135+ Problems on LeetCode
+- 📄 Research Paper Presented at ICCIC 2025
+- 📄 Research Paper Accepted at OTCON 5.0 (2026)
+- 📄 Research Paper Presented at ICAPC2T 2025
+
+---
+
 # 🚀 Featured Projects
 
-## 🔥 Skill Hive – Peer-to-Peer Learning Platform
+## 🩸 Blood Donor Finder Application
 
-A modern MERN-stack based peer-to-peer learning platform that connects learners with tutors through real-time communication and interactive learning sessions.
+Full-stack web application connecting blood donors and recipients.
 
-### ✨ Features
-- Secure JWT Authentication
-- Real-time Chat & Communication
-- Tutor Discovery System
-- Video Session Integration
-- Responsive User Interface
+### ⚡ Features
+- Donor Registration
+- Blood Request Management
+- User Authentication
+- MongoDB Integration
+- REST APIs
 
-🔗 [https://github.com/SanamRohith/Skill-Hive-Peer-to-Peer-Learning](https://github.com/SanamRohith/Skill-Hive-Peer-to-Peer-Learning)
+### 🛠️ Tech Stack
+Flask • MongoDB • HTML • CSS • JavaScript • REST APIs
+
+🔗 Repository:
+https://github.com/SanamRohith/Blood-Donation-Application
 
 ---
 
 ## ⚖️ Grievance Management System
 
-A Django-based grievance management platform designed to streamline complaint registration, tracking, and resolution processes efficiently.
+Complaint registration and tracking platform built with Django.
 
-### ✨ Features
-- User Registration & Login
-- Complaint Submission System
-- File Upload Support
-- Complaint Status Tracking
-- Admin Management Panel
+### ⚡ Features
+- Complaint Registration
+- Complaint Tracking
+- Role-Based Access Control
+- Secure Authentication
+- Admin Dashboard
 
-🔗 [https://github.com/SanamRohith/grievance-management-system](https://github.com/SanamRohith/grievance-management-system)
+### 🛠️ Tech Stack
+Django • SQLite • HTML • CSS
 
----
-
-## 🩸 Blood Donation Application
-
-A web-based blood donation management application that helps connect blood donors and recipients efficiently through an organized platform.
-
-### ✨ Features
-- Donor Registration
-- Blood Group Management
-- Search & Contact System
-- Responsive Design
-
-🔗 [https://github.com/SanamRohith/Blood-Donation-Application](https://github.com/SanamRohith/Blood-Donation-Application)
+🔗 Repository:
+https://github.com/SanamRohith/grievance-management-system
 
 ---
 
-## 🔐 Password Generator
+## 🎓 Skill Hive – Peer-to-Peer Learning Platform
 
-A secure password generator application that creates strong and customizable passwords to improve online security.
+Modern learning platform connecting learners and tutors.
 
-### ✨ Features
-- Random Secure Password Generation
-- Custom Length Selection
-- Symbols & Number Support
-- Clean User Interface
+### ⚡ Features
+- JWT Authentication
+- Real-Time Communication
+- Tutor Discovery System
+- Responsive UI
+- Learning Session Management
 
-🔗 [https://github.com/SanamRohith/Password-Generator](https://github.com/SanamRohith/Password-Genarator)
+### 🛠️ Tech Stack
+MongoDB • Express.js • React.js • Node.js
+
+🔗 Repository:
+https://github.com/SanamRohith/Skill-Hive-Peer-to-Peer-Learning
 
 ---
 
-## ⚡ Rovixa Typing Speed Test
-
-An interactive typing speed test web application designed to improve typing speed and accuracy with real-time performance tracking.
-
-### ✨ Features
-- Real-time Speed Calculation
-- Accuracy Measurement
-- Interactive Typing Interface
-- Responsive Web Design
-
-🔗 https://github.com/SanamRohith/Rovixa-Typing-speed-test
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SanamRohith&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanamRohith&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanamRohith&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanamRohith&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SanamRohith&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 # 🌐 Connect With Me
 
@@ -125,9 +138,12 @@ An interactive typing speed test web application designed to improve typing spee
 
 </p>
 
+---
+
 <p align="center">
-✨ Building cool things with code ✨
+⭐ Building impactful software one project at a time.
 </p>
+
 <p align="center">
-✨ "Building impactful software one project at a time." ✨
+🚀 Always learning, always building.
 </p>
